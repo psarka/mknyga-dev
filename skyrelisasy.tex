@@ -1,0 +1,64 @@
+\documentclass[a4paper,11pt,twoside]{book}
+\usepackage[BW]{optional}
+\usepackage{skyrelisasy}
+\begin{document}
+\section{skyreliopavadinimas} %Įrašykite skyrelio pavadinimą.
+
+%Rašyti čia
+
+%Lietuvių kalbos testas. Sukompiliavę turite matyti užrašą ``Teorema''
+%ir taisyklingas lietuviškas raides bei kabutes. Jei viskas veikia,
+%ištrinkite šį komentarą ir žemiau esančias tris eilutes.
+
+\begin{thm} 
+  ąčęėįšųū„“ž
+\end{thm}
+
+%Asymptote testas. Sukompiliavę skyrelisasy.tex su latex,
+%skyrelisasy.asy su asymptote ir skyrelisasy.asy vėl su latex,
+%turite matyti brėžinį. Jei viskas veikia, ištrinkite šį komentarą ir
+%žemiau esančias 41 eilutę.
+
+\begin{center}
+\begin{asy}
+import olympiad;
+size(200);
+pair A, B, C, D, E, F, G, H;
+path a1, a2;
+A=origin; B=(100,0);
+a1=circle(A,40);
+a2=circle(B,40);
+draw(a1);
+draw(a2);
+dot(A,blue);
+dot(B,blue);
+C=waypoint(a1,-0.10);
+D=waypoint(a1,-0.40);
+E=waypoint(a1,0.20);
+F=waypoint(a2,0.1);
+G=waypoint(a2,0.2);
+H=waypoint(a2,0.44);
+add(anglem(D,A,C,300,green,0));
+add(anglem(D,E,C,300,green,0));
+add(anglem(H,G,F,300,blue,0));
+add(anglem(H,B,F,300,blue,0));
+label("$\beta$",E,1.5*(-0.4,-2),deepgreen);
+label("$2\beta$",A,1.5*(0,-2),deepgreen);
+label("$\alpha$",G,1.5*(0,-2),deepblue);
+label("$2\alpha$",B,1.5*(0,-2),deepblue);
+draw(A--C--E--D--cycle);
+draw(C--D);
+draw(B--F--G--H--cycle);
+draw(F--H);
+dot(A,blue);
+dot(B,blue);
+dot(C,blue);
+dot(D,blue);
+dot(E,blue);
+dot(F,blue);
+dot(G,blue);
+dot(H,blue);
+\end{asy}
+\end{center}
+
+\end{document}
