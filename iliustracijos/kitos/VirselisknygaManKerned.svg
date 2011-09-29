@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -12,10 +13,11 @@
    height="1052.3622047"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.46"
+   inkscape:version="0.48.1 r9760"
    sodipodi:docname="VirselisknygaManKerned.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   enable-background="new">
+   enable-background="new"
+   version="1.1">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -43,19 +45,20 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="19.02741"
-     inkscape:cx="7.0500951"
-     inkscape:cy="11.454294"
+     inkscape:zoom="0.45254834"
+     inkscape:cx="369.56258"
+     inkscape:cy="561.82571"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1280"
-     inkscape:window-height="964"
-     inkscape:window-x="0"
+     inkscape:window-height="800"
+     inkscape:window-x="14"
      inkscape:window-y="26"
-     inkscape:snap-global="true">
+     inkscape:snap-global="true"
+     inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
        id="grid3319" />
@@ -77,16 +80,18 @@
      id="layer1"
      style="display:inline">
     <path
-       style="opacity:1;fill:#ff7f00;fill-opacity:1;stroke:#000000;stroke-width:0.86264694;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 0.4313235,524.86218 L 0.4313235,-2.2064762 L 372.5,-2.2064762 L 744.56868,-2.2064762 L 744.56868,524.86218 L 744.56868,1051.9309 L 372.5,1051.9309 L 0.4313235,1051.9309 L 0.4313235,524.86218 z"
-       id="path2396" />
+       style="fill:#ffef00;fill-opacity:1;stroke:#000000;stroke-width:0.86299998;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 0.4313235,528.86218 0,-527.0686562 372.0686765,0 372.06868,0 0,527.0686562 0,527.06872 -372.06868,0 -372.0686765,0 0,-527.06872 z"
+       id="path2396"
+       inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.51359987;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
-       d="M 119.97831,327.36218 L 620,327.36218"
-       id="path2401" />
+       style="fill:none;stroke:#000000;stroke-width:4.51359987;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 119.97831,327.36218 500.02169,0"
+       id="path2401"
+       inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:PsRockwell;-inkscape-font-specification:PsRockwell"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:PsRockwell;-inkscape-font-specification:PsRockwell"
        x="335.09555"
        y="146.30086"
        id="text2409"><tspan
@@ -94,52 +99,72 @@
          id="tspan2411"
          x="335.09555"
          y="146.30086" /></text>
-    <g
-       id="g2421"
-       transform="translate(-269.92639,10.931598)">
-      <text
-         id="text2401"
-         y="85.756615"
-         x="330.89108"
-         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:PsRockwell;-inkscape-font-specification:PsRockwell"
-         xml:space="preserve"><tspan
-           dx="0 0 0 0 0 0 0 0 0 0 0.4204461 -0.4204461"
-           y="85.756615"
-           x="330.89108"
-           id="tspan2403"
-           sodipodi:role="line">Paulius Kantautas</tspan></text>
-      <text
-         id="text2405"
-         y="118.97186"
-         x="330.89108"
-         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:PsRockwell;-inkscape-font-specification:PsRockwell"
-         xml:space="preserve"><tspan
-           y="118.97186"
-           x="330.89108"
-           id="tspan2407"
-           sodipodi:role="line">Lukas Melninkas</tspan></text>
-      <text
-         id="text2413"
-         y="153.02798"
-         x="331.31152"
-         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:PsRockwell;-inkscape-font-specification:PsRockwell"
-         xml:space="preserve"><tspan
-           dx="0 0 -0.4204461 1.2613382 0 -0.8408922"
-           y="153.02798"
-           x="331.31152"
-           id="tspan2415"
-           sodipodi:role="line">Pijus Simonaitis</tspan></text>
-      <text
-         id="text2417"
-         y="185.40234"
-         x="331.31152"
-         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:PsRockwell;-inkscape-font-specification:PsRockwell"
-         xml:space="preserve"><tspan
-           y="185.40234"
-           x="331.31152"
-           id="tspan2419"
-           sodipodi:role="line">Paulius Šarka</tspan></text>
-    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:PsRockwell;-inkscape-font-specification:PsRockwell"
+       x="60.964691"
+       y="115.43821"
+       id="text2401"><tspan
+         dx="0 0 0 0 0 0 0 0 0 0 0.4204461 -0.4204461"
+         sodipodi:role="line"
+         id="tspan2403"
+         x="60.964691"
+         y="115.43821">Paulius Kantautas</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:PsRockwell;-inkscape-font-specification:PsRockwell"
+       x="60.964691"
+       y="148.65346"
+       id="text2405"><tspan
+         sodipodi:role="line"
+         id="tspan2407"
+         x="60.964691"
+         y="148.65346">Lukas Melninkas</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:PsRockwell;-inkscape-font-specification:PsRockwell"
+       x="61.385132"
+       y="182.70958"
+       id="text2413"><tspan
+         sodipodi:role="line"
+         id="tspan2415"
+         x="61.385132"
+         y="182.70958"
+         dx="0 0 -0.4204461 1.2613382 0 -0.8408922">Pijus Simonaitis</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:PsRockwell;-inkscape-font-specification:PsRockwell"
+       x="61.385132"
+       y="215.08394"
+       id="text2417"><tspan
+         sodipodi:role="line"
+         id="tspan2419"
+         x="61.385132"
+         y="215.08394">Paulius Šarka</tspan></text>
+    <text
+       id="text3027"
+       y="82.300064"
+       x="60.964691"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:PsRockwell;-inkscape-font-specification:PsRockwell"
+       xml:space="preserve"><tspan
+         y="82.300064"
+         x="60.964691"
+         id="tspan3029"
+         sodipodi:role="line"
+         dx="-1.1048543 -2.7621362 0.27621359 0 -0.27621359 0.55242717 0 0 2.2097089 0 0.55242717 0 -0.55242717">Vaidotas Juronis</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="333.3631"
+       y="513.46136"
+       id="text3823"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3825"
+         x="333.3631"
+         y="513.46136"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:PsRockwell;-inkscape-font-specification:PsRockwell Medium"
+         dx="0 0 0 -1.1048543">v2.0</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
